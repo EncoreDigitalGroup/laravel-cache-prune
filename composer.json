@@ -1,16 +1,10 @@
 {
-    "name": "encoredigitalgroup/php-package-template",
+    "name": "encoredigitalgroup/laravel-cache-prune",
     "type": "library",
     "authors": [
         {
             "name": "Marc Beinder",
             "email": "marc.beinder@encoredigitalgroup.com"
-        }
-    ],
-    "repositories": [
-        {
-            "type": "composer",
-            "url": "https://packages.encoredigitalgroup.com"
         }
     ],
     "config": {
@@ -27,8 +21,7 @@
     "require": {
         "php": "^8.3",
         "encoredigitalgroup/stdlib": "^2",
-        "illuminate/support": "^11|^12",
-        "phpgenesis/logger": "^0.3"
+        "illuminate/support": "^11|^12"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.9",
@@ -46,14 +39,14 @@
     },
     "autoload": {
         "psr-4": {
-            "EncoreDigitalGroup\\PackageTemplate\\": "src/"
+            "EncoreDigitalGroup\\LaravelCachePrune\\": "src/"
         }
     },
     "scripts": {},
     "extra": {
         "laravel": {
             "providers": [
-                "EncoreDigitalGroup\\PackageTemplate\\ServiceProvider"
+                "EncoreDigitalGroup\\LaravelCachePrune\\Providers\\ServiceProvider"
             ],
             "dont-discover": []
         },
