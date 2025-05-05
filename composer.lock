@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "31468f02655e78668ac6546d16a0117d",
+    "content-hash": "cadf5d90a8fd39e5f2e56d0d85f9461d",
     "packages": [
         {
             "name": "brick/math",
@@ -3227,88 +3227,6 @@
                 }
             ],
             "time": "2024-11-21T10:39:51+00:00"
-        },
-        {
-            "name": "phpgenesis/common",
-            "version": "v0.3.10",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/PHPGenesis/Common.git",
-                "reference": "8940b71aade32fcb51e8d09049c261253831ec88"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/PHPGenesis/Common/zipball/8940b71aade32fcb51e8d09049c261253831ec88",
-                "reference": "8940b71aade32fcb51e8d09049c261253831ec88",
-                "shasum": ""
-            },
-            "require": {
-                "composer-runtime-api": "^2.0",
-                "composer/composer": "^2.0",
-                "encoredigitalgroup/stdlib": "^2.0",
-                "illuminate/collections": "^10|^11|^12",
-                "illuminate/database": "^10|^11|^12",
-                "illuminate/support": "^10|^11|^12",
-                "php": "^8.3"
-            },
-            "require-dev": {
-                "laravel/framework": "^10|^11"
-            },
-            "type": "library",
-            "autoload": {
-                "files": [
-                    "src/Helpers/helpers.php",
-                    "phpgenesis_helpers.php"
-                ],
-                "psr-4": {
-                    "PHPGenesis\\Common\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "description": "Shared Functionality for PHPGenesis",
-            "support": {
-                "source": "https://github.com/PHPGenesis/Common/tree/v0.3.10"
-            },
-            "time": "2025-04-05T18:37:59+00:00"
-        },
-        {
-            "name": "phpgenesis/logger",
-            "version": "v0.3.10",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/PHPGenesis/Logger.git",
-                "reference": "d10f952a3b30215555f4d45da333f232a0ba05cc"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/PHPGenesis/Logger/zipball/d10f952a3b30215555f4d45da333f232a0ba05cc",
-                "reference": "d10f952a3b30215555f4d45da333f232a0ba05cc",
-                "shasum": ""
-            },
-            "require": {
-                "illuminate/log": "^10|^11|^12",
-                "monolog/monolog": "^3.6",
-                "php": "^8.3",
-                "phpgenesis/common": "self.version"
-            },
-            "type": "library",
-            "autoload": {
-                "psr-4": {
-                    "PHPGenesis\\Logger\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "BSD-3-Clause"
-            ],
-            "description": "Logger for PHPGenesis",
-            "support": {
-                "source": "https://github.com/PHPGenesis/Logger/tree/v0.3.10"
-            },
-            "time": "2025-04-05T18:37:58+00:00"
         },
         {
             "name": "phpoption/phpoption",
@@ -9700,8 +9618,54 @@
             "time": "2024-11-09T15:12:26+00:00"
         },
         {
+            "name": "phpgenesis/common",
+            "version": "v0.3.12",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PHPGenesis/Common.git",
+                "reference": "aa8e16aefb753cdd055814786307c9e3870c1ba7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PHPGenesis/Common/zipball/aa8e16aefb753cdd055814786307c9e3870c1ba7",
+                "reference": "aa8e16aefb753cdd055814786307c9e3870c1ba7",
+                "shasum": ""
+            },
+            "require": {
+                "composer-runtime-api": "^2.0",
+                "composer/composer": "^2.0",
+                "encoredigitalgroup/stdlib": "^2.0",
+                "illuminate/collections": "^10|^11|^12",
+                "illuminate/database": "^10|^11|^12",
+                "illuminate/support": "^10|^11|^12",
+                "php": "^8.3"
+            },
+            "require-dev": {
+                "laravel/framework": "^10|^11"
+            },
+            "type": "library",
+            "autoload": {
+                "files": [
+                    "src/Helpers/helpers.php",
+                    "phpgenesis_helpers.php"
+                ],
+                "psr-4": {
+                    "PHPGenesis\\Common\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "BSD-3-Clause"
+            ],
+            "description": "Shared Functionality for PHPGenesis",
+            "support": {
+                "source": "https://github.com/PHPGenesis/Common/tree/v0.3.12"
+            },
+            "time": "2025-05-01T16:22:38+00:00"
+        },
+        {
             "name": "phpgenesis/devutilities",
-            "version": "v0.3.10",
+            "version": "v0.3.12",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPGenesis/DevUtilities.git",
@@ -9734,7 +9698,7 @@
                 "dev"
             ],
             "support": {
-                "source": "https://github.com/PHPGenesis/DevUtilities/tree/v0.3.10"
+                "source": "https://github.com/PHPGenesis/DevUtilities/tree/v0.3.12"
             },
             "time": "2025-02-19T17:26:05+00:00"
         },
