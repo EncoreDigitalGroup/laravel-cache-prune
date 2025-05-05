@@ -1,15 +1,18 @@
 <?php
 
-namespace EncoreDigitalGroup\PackageTemplate\Providers;
+namespace EncoreDigitalGroup\LaravelCachePrune\Providers;
 
+use EncoreDigitalGroup\LaravelCachePrune\Console\Commands\CachePruneCommand;
 use Illuminate\Support\ServiceProvider as BaseServiceProvider;
 
 class ServiceProvider extends BaseServiceProvider
 {
-    public function register(): void
-    {
-        $this->mergeConfigFrom(__DIR__ . "/../../config/config.php", "template");
-    }
+    public function register(): void {}
 
-    public function boot(): void {}
+    public function boot(): void
+    {
+        $this->commands([
+            CachePruneCommand::class,
+        ]);
+    }
 }
