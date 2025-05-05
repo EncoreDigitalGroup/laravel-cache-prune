@@ -1,6 +1,7 @@
 {
     "name": "encoredigitalgroup/laravel-cache-prune",
     "type": "library",
+    "license": "BSD-3-Clause",
     "authors": [
         {
             "name": "Marc Beinder",
@@ -20,8 +21,7 @@
     },
     "require": {
         "php": "^8.3",
-        "encoredigitalgroup/stdlib": "^2",
-        "illuminate/support": "^11|^12"
+        "laravel/framework": "^11|^12"
     },
     "require-dev": {
         "friendsofphp/php-cs-fixer": "^3.9",
