@@ -1056,16 +1056,16 @@
         },
         {
             "name": "laravel/framework",
-            "version": "v12.19.3",
+            "version": "v12.20.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/framework.git",
-                "reference": "4e6ec689ef704bb4bd282f29d9dd658dfb4fb262"
+                "reference": "1b9a00f8caf5503c92aa436279172beae1a484ff"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/framework/zipball/4e6ec689ef704bb4bd282f29d9dd658dfb4fb262",
-                "reference": "4e6ec689ef704bb4bd282f29d9dd658dfb4fb262",
+                "url": "https://api.github.com/repos/laravel/framework/zipball/1b9a00f8caf5503c92aa436279172beae1a484ff",
+                "reference": "1b9a00f8caf5503c92aa436279172beae1a484ff",
                 "shasum": ""
             },
             "require": {
@@ -1267,20 +1267,20 @@
                 "issues": "https://github.com/laravel/framework/issues",
                 "source": "https://github.com/laravel/framework"
             },
-            "time": "2025-06-18T12:56:23+00:00"
+            "time": "2025-07-08T15:02:21+00:00"
         },
         {
             "name": "laravel/prompts",
-            "version": "v0.3.5",
+            "version": "v0.3.6",
             "source": {
                 "type": "git",
                 "url": "https://github.com/laravel/prompts.git",
-                "reference": "57b8f7efe40333cdb925700891c7d7465325d3b1"
+                "reference": "86a8b692e8661d0fb308cec64f3d176821323077"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/laravel/prompts/zipball/57b8f7efe40333cdb925700891c7d7465325d3b1",
-                "reference": "57b8f7efe40333cdb925700891c7d7465325d3b1",
+                "url": "https://api.github.com/repos/laravel/prompts/zipball/86a8b692e8661d0fb308cec64f3d176821323077",
+                "reference": "86a8b692e8661d0fb308cec64f3d176821323077",
                 "shasum": ""
             },
             "require": {
@@ -1324,9 +1324,9 @@
             "description": "Add beautiful and user-friendly forms to your command-line applications.",
             "support": {
                 "issues": "https://github.com/laravel/prompts/issues",
-                "source": "https://github.com/laravel/prompts/tree/v0.3.5"
+                "source": "https://github.com/laravel/prompts/tree/v0.3.6"
             },
-            "time": "2025-02-11T13:34:40+00:00"
+            "time": "2025-07-07T14:17:42+00:00"
         },
         {
             "name": "laravel/serializable-closure",
@@ -6421,16 +6421,16 @@
         },
         {
             "name": "encoredigitalgroup/stdlib",
-            "version": "v2.7.0",
+            "version": "v2.8.1",
             "source": {
                 "type": "git",
                 "url": "https://github.com/EncoreDigitalGroup/stdlib.git",
-                "reference": "a30f51acd7c4602b2bc0c5355ba7a06b76c4f8a4"
+                "reference": "ce7f8a9eee296523b0d6cb7da051ada7e7e16c5b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/EncoreDigitalGroup/stdlib/zipball/a30f51acd7c4602b2bc0c5355ba7a06b76c4f8a4",
-                "reference": "a30f51acd7c4602b2bc0c5355ba7a06b76c4f8a4",
+                "url": "https://api.github.com/repos/EncoreDigitalGroup/stdlib/zipball/ce7f8a9eee296523b0d6cb7da051ada7e7e16c5b",
+                "reference": "ce7f8a9eee296523b0d6cb7da051ada7e7e16c5b",
                 "shasum": ""
             },
             "require": {
@@ -6473,9 +6473,9 @@
             "description": "A collection of standard library classes and functions for PHP.",
             "support": {
                 "issues": "https://github.com/EncoreDigitalGroup/stdlib/issues",
-                "source": "https://github.com/EncoreDigitalGroup/stdlib/tree/v2.7.0"
+                "source": "https://github.com/EncoreDigitalGroup/stdlib/tree/v2.8.1"
             },
-            "time": "2025-05-12T15:09:09+00:00"
+            "time": "2025-07-05T22:03:12+00:00"
         },
         {
             "name": "evenement/evenement",
@@ -8817,16 +8817,16 @@
         },
         {
             "name": "phpgenesis/common",
-            "version": "v0.3.15",
+            "version": "v0.3.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPGenesis/Common.git",
-                "reference": "03ac105184ac07668d69d87de5a74c91d2f4d54d"
+                "reference": "eb67c879a4bb4aa8e0c6dd619f1d2d5ddb86843f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPGenesis/Common/zipball/03ac105184ac07668d69d87de5a74c91d2f4d54d",
-                "reference": "03ac105184ac07668d69d87de5a74c91d2f4d54d",
+                "url": "https://api.github.com/repos/PHPGenesis/Common/zipball/eb67c879a4bb4aa8e0c6dd619f1d2d5ddb86843f",
+                "reference": "eb67c879a4bb4aa8e0c6dd619f1d2d5ddb86843f",
                 "shasum": ""
             },
             "require": {
@@ -8857,13 +8857,13 @@
             ],
             "description": "Shared Functionality for PHPGenesis",
             "support": {
-                "source": "https://github.com/PHPGenesis/Common/tree/v0.3.15"
+                "source": "https://github.com/PHPGenesis/Common/tree/v0.3.16"
             },
-            "time": "2025-06-29T21:58:48+00:00"
+            "time": "2025-07-04T22:21:37+00:00"
         },
         {
             "name": "phpgenesis/devutilities",
-            "version": "v0.3.15",
+            "version": "v0.3.16",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPGenesis/DevUtilities.git",
@@ -8896,7 +8896,7 @@
                 "dev"
             ],
             "support": {
-                "source": "https://github.com/PHPGenesis/DevUtilities/tree/v0.3.15"
+                "source": "https://github.com/PHPGenesis/DevUtilities/tree/v0.3.16"
             },
             "time": "2025-06-27T21:00:18+00:00"
         },
