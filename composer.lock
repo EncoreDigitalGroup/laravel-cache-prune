@@ -7591,16 +7591,16 @@
         },
         {
             "name": "marc-mabe/php-enum",
-            "version": "v4.7.1",
+            "version": "v4.7.2",
             "source": {
                 "type": "git",
                 "url": "https://github.com/marc-mabe/php-enum.git",
-                "reference": "7159809e5cfa041dca28e61f7f7ae58063aae8ed"
+                "reference": "bb426fcdd65c60fb3638ef741e8782508fda7eef"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/marc-mabe/php-enum/zipball/7159809e5cfa041dca28e61f7f7ae58063aae8ed",
-                "reference": "7159809e5cfa041dca28e61f7f7ae58063aae8ed",
+                "url": "https://api.github.com/repos/marc-mabe/php-enum/zipball/bb426fcdd65c60fb3638ef741e8782508fda7eef",
+                "reference": "bb426fcdd65c60fb3638ef741e8782508fda7eef",
                 "shasum": ""
             },
             "require": {
@@ -7658,9 +7658,9 @@
             ],
             "support": {
                 "issues": "https://github.com/marc-mabe/php-enum/issues",
-                "source": "https://github.com/marc-mabe/php-enum/tree/v4.7.1"
+                "source": "https://github.com/marc-mabe/php-enum/tree/v4.7.2"
             },
-            "time": "2024-11-28T04:54:44+00:00"
+            "time": "2025-09-14T11:18:39+00:00"
         },
         {
             "name": "mockery/mockery",
@@ -9121,7 +9121,7 @@
         },
         {
             "name": "phpgenesis/common",
-            "version": "v1.2.1",
+            "version": "v1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPGenesis/Common.git",
@@ -9160,22 +9160,22 @@
             ],
             "description": "Shared Functionality for PHPGenesis",
             "support": {
-                "source": "https://github.com/PHPGenesis/Common/tree/v1.2.1"
+                "source": "https://github.com/PHPGenesis/Common/tree/v1.4.0"
             },
             "time": "2025-09-07T18:55:19+00:00"
         },
         {
             "name": "phpgenesis/devutilities",
-            "version": "v1.2.1",
+            "version": "v1.4.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/PHPGenesis/DevUtilities.git",
-                "reference": "c1cabd713a359ff385f1dfee0a6167a5142c788f"
+                "reference": "c3117759af6c09acf1e615176eb9f842be1672c2"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PHPGenesis/DevUtilities/zipball/c1cabd713a359ff385f1dfee0a6167a5142c788f",
-                "reference": "c1cabd713a359ff385f1dfee0a6167a5142c788f",
+                "url": "https://api.github.com/repos/PHPGenesis/DevUtilities/zipball/c3117759af6c09acf1e615176eb9f842be1672c2",
+                "reference": "c3117759af6c09acf1e615176eb9f842be1672c2",
                 "shasum": ""
             },
             "require": {
@@ -9199,9 +9199,9 @@
                 "dev"
             ],
             "support": {
-                "source": "https://github.com/PHPGenesis/DevUtilities/tree/v1.2.1"
+                "source": "https://github.com/PHPGenesis/DevUtilities/tree/v1.4.0"
             },
-            "time": "2025-09-08T03:29:36+00:00"
+            "time": "2025-09-12T14:41:00+00:00"
         },
         {
             "name": "phpstan/extension-installer",
