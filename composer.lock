@@ -9221,11 +9221,11 @@
         },
         {
             "name": "phpstan/phpstan",
-            "version": "2.1.43",
+            "version": "2.1.46",
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/d01bebe3edfd4d49b9666ee5b8271ddca561042f",
-                "reference": "d01bebe3edfd4d49b9666ee5b8271ddca561042f",
+                "url": "https://api.github.com/repos/phpstan/phpstan/zipball/a193923fc2d6325ef4e741cf3af8c3e8f54dbf25",
+                "reference": "a193923fc2d6325ef4e741cf3af8c3e8f54dbf25",
                 "shasum": ""
             },
             "require": {
@@ -9270,7 +9270,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2026-03-24T20:40:50+00:00"
+            "time": "2026-04-01T09:25:14+00:00"
         },
         {
             "name": "phpunit/php-code-coverage",
@@ -12563,16 +12563,16 @@
         },
         {
             "name": "tomasvotruba/cognitive-complexity",
-            "version": "1.0.0",
+            "version": "1.1.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/TomasVotruba/cognitive-complexity.git",
-                "reference": "974586fbc31b448ec04cf7877767bbb775671c3f"
+                "reference": "3ca30d23ec743d1d0d67d2d6f2824538a98941f8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/TomasVotruba/cognitive-complexity/zipball/974586fbc31b448ec04cf7877767bbb775671c3f",
-                "reference": "974586fbc31b448ec04cf7877767bbb775671c3f",
+                "url": "https://api.github.com/repos/TomasVotruba/cognitive-complexity/zipball/3ca30d23ec743d1d0d67d2d6f2824538a98941f8",
+                "reference": "3ca30d23ec743d1d0d67d2d6f2824538a98941f8",
                 "shasum": ""
             },
             "require": {
@@ -12599,7 +12599,7 @@
             "description": "PHPStan rules to measure cognitive complexity of your classes and methods",
             "support": {
                 "issues": "https://github.com/TomasVotruba/cognitive-complexity/issues",
-                "source": "https://github.com/TomasVotruba/cognitive-complexity/tree/1.0.0"
+                "source": "https://github.com/TomasVotruba/cognitive-complexity/tree/1.1.0"
             },
             "funding": [
                 {
@@ -12611,7 +12611,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2024-12-13T10:28:54+00:00"
+            "time": "2026-03-30T14:54:38+00:00"
         },
         {
             "name": "webmozart/assert",
